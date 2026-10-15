@@ -1,2 +1,8 @@
-# dc-bot
-Bebis Discord bot
+# Bebis Discord bot
+
+## .env template
+
+```ini
+TOKEN=...
+GUILD=...
+```
